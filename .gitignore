@@ -1,0 +1,18 @@
+# Downloaded videos
+*.mp4
+*.mkv
+*.webm
+*.m4a
+*.mp3
+
+# Temporary files
+*.part
+*.ytdl
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Config (user-specific)
+config.local
