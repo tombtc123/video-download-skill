@@ -50,7 +50,7 @@ winget install ffmpeg
 
 ```bash
 # 克隆仓库
-git clone https://github.com/YOUR_USERNAME/video-download-skill.git
+git clone https://github.com/tombtc123/video-download-skill.git
 
 # 添加执行权限
 chmod +x video-download-skill/scripts/download.sh

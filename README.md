@@ -50,7 +50,7 @@ winget install ffmpeg
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/video-download-skill.git
+git clone https://github.com/tombtc123/video-download-skill.git
 
 # Make script executable
 chmod +x video-download-skill/scripts/download.sh

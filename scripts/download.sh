@@ -3,7 +3,7 @@
 # ============================================================================
 # Video Download Script
 # Download videos from YouTube, Bilibili, Twitter/X, and 1000+ other sites
-# https://github.com/YOUR_USERNAME/video-download-skill
+# https://github.com/tombtc123/video-download-skill
 # ============================================================================
 
 VERSION="1.0.0"
